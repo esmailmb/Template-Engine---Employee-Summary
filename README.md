@@ -8,7 +8,7 @@ Run `npm install` to install all required dependencies
 
 
 # Folder Structure
-lib = classes and helper code
+lib = classes and helper code  
 output = rendered output
 templates = HTML template(s)
 test = jest tests
@@ -29,11 +29,11 @@ app.js = Runs the application
 7. If you selected Engineer, input their GitHub. If you selected Manager, input their office number. If you selected Intern, input their school
 8. Repeat for all employees until you see the "Success!" notification. 
 
-    ![](images/Run.gif)
+    ![](images/Runprocedure.gif)
 
 9. you can see `team.html` in output folder 
 
-    ![](images/output.png)
+    ![](images/EmployeeTemplate.png)
 
 ## Tool & Resources
 ---
